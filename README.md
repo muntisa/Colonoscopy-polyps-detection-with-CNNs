@@ -13,6 +13,8 @@ The following steps will be implemented into separated jupyter notebooks:
 * [5-FineTuningVGG16.ipynb](5-FineTuningVGG16.ipynb): The last step is trying to apply fine tuning of pre-trained VGG16 networks (training 1-2 Conv blocks + FC layer). I will show you that in only 2 minutes you can build a classifier with over 98% accuracy!
 * [6-WindowsPolypsDetection.ipynb](6-WindowsPolypsDetection.ipynb): With a very simple script, it is possible to detect a polyp into a colonoscopy image (this is not the YOLO algorithm!).
 
+![Detected polyp in colonoscopy image](results/detected.png)
+
 **Folders**
 * download: original downloaded dataset
 * cropped: new images with polyps and non-polyps images
