@@ -16,12 +16,12 @@ The following steps will be implemented into separated jupyter notebooks:
 ![Detected polyp in colonoscopy image](results/detected.png)
 
 **Folders**
-* download: original downloaded dataset
-* cropped: new images with polyps and non-polyps images
-* data_polyps: the final dataset for the classifiers (train/validation subsets)
-* saved_models: models saved with the notebooks (the large models are not saved!)
-* results: extra results from these calculations
-* nets: the downloaded VGG16 weights
+* *download*: original downloaded dataset
+* *cropped*: new images with polyps and non-polyps images
+* *data_polyps*: the final dataset for the classifiers (train/validation subsets)
+* *saved_models*: models saved with the notebooks (the large models are not saved!)
+* *results*: extra results from these calculations
+* *nets*: the downloaded VGG16 weights
 
 ### Acknowledgements
 I gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan Xp GPU used for this research (https://developer.nvidia.com/academic_gpu_seeding).
