@@ -19,7 +19,7 @@ The following steps will be implemented into separated jupyter notebooks:
 * download: original downloaded dataset
 * cropped: new images with polyps and non-polyps images
 * data_polyps: the final dataset for the classifiers (train/validation subsets)
-* saved_models: models saved with the notebooks
+* saved_models: models saved with the notebooks (the large models are not saved!)
 * results: extra results from these calculations
 * nets: the downloaded VGG16 weights
 
