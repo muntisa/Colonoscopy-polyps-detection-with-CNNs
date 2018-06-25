@@ -1,6 +1,6 @@
 # CNN4CRCPolyps - Colonoscopy polyps detection with CNN
 
-This is a proof of state repository for detection of polyps in colonoscopy images. Additional works should be done to obtain a better version of the image classifier and to create a Web/mobile app for this task.
+This is a proof of concept repository for detection of polyps in colonoscopy images. Additional works should be done to obtain a better version of the image classifier and to create a Web/mobile app for this task.
 The original dataset used for this study was downloaded from:
 * http://site.uit.no/deephealthresearch/2017/07/19/polyp-detection-using-deep-learning/
 * https://www.dropbox.com/s/p5qe9eotetjnbmq/CVC-ClinicDB.rar?dl=0
