@@ -1,4 +1,4 @@
-# CNN4CRCPolyps - Colonoscopy polyps detection with CNN
+# CNN4Polyps - Colonoscopy polyps detection with CNN
 
 This is a proof of concept repository for detection of polyps in colonoscopy images. Additional works should be done to obtain a better version of the image classifier and to create a Web/mobile app for this task.
 The original dataset used for this study was downloaded from:
@@ -13,7 +13,7 @@ The following steps will be implemented into separated jupyter notebooks:
 * [5-FineTuningVGG16.ipynb](5-FineTuningVGG16.ipynb): The last step is trying to apply fine tuning of pre-trained VGG16 networks (training 1-2 Conv blocks + FC layer). I will show you that in only 2 minutes you can build a classifier with over 98% accuracy!
 * [6-WindowsPolypsDetection.ipynb](6-WindowsPolypsDetection.ipynb): With a very simple script, it is possible to detect a polyp into a colonoscopy image (this is not the YOLO algorithm!).
 
-![CNN4CRCPolyps Flow](results/CNN4CRCPolyps_flow.png)
+![CNN4Polyps Flow](results/CNN4Polyps_flow.png)
 
 **Folders**
 * *download*: original downloaded dataset
