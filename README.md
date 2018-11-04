@@ -1,5 +1,11 @@
 # CNN4Polyps - Colonoscopy polyps detection with CNN
 
+### Run the project (online)
+
+You can run the jupyter notebooks online and free with mybinder: https://mybinder.org/v2/gh/muntisa/Colonoscopy-polyps-detection-with-CNNs.
+
+## Description
+
 This is a proof of concept repository for detection of polyps in colonoscopy images. Additional works should be done to obtain a better version of the image classifier and to create a Web/mobile app for this task.
 The original dataset used for this study was downloaded from:
 * http://site.uit.no/deephealthresearch/2017/07/19/polyp-detection-using-deep-learning/
