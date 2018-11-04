@@ -30,4 +30,4 @@ The following steps will be implemented into separated jupyter notebooks:
 * *nets*: the downloaded VGG16 weights
 
 ### Acknowledgements
-I gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan Xp GPU used for this research (https://developer.nvidia.com/academic_gpu_seeding).
+I gratefully acknowledge the support of NVIDIA Corporation with the donation of the Titan Xp GPU used for this research (https://developer.nvidia.com/academic_gpu_seeding). The entire project was done at RNASA-IMEDIR group, Computer Science Faculty, University of A Coruna, Spain.
