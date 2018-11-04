@@ -2,7 +2,7 @@
 
 ### Run the project (online)
 
-You can run the jupyter notebooks online and free with mybinder: https://mybinder.org/v2/gh/muntisa/Colonoscopy-polyps-detection-with-CNNs.
+You can run the jupyter notebooks online and free with mybinder: https://mybinder.org/v2/gh/muntisa/Colonoscopy-polyps-detection-with-CNNs/master/.
 
 ## Description
 
