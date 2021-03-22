@@ -1,5 +1,11 @@
 # CNN4Polyps - Colonoscopy polyps detection with CNN
 
+## Update 2021: Free android mobile version by [XLandC](https://www.facebook.com/xlandc/) & [RNASA-IMEDIR](https://twitter.com/RNASA_IMEDIR), [CITIC](https://citic.udc.es/), INIBIC, REGICC: 
+* Polyp detector app: [https://play.google.com/store/apps/details?id=com.xlandc.polypdetect](https://play.google.com/store/apps/details?id=com.xlandc.polypdetect)
+* tensorflow lite model
+* flutter & dart framework
+* data stays on your phone, the predictions are made by your device, no data tracking about your prediction/images
+
 ## Description
 
 This is a proof of concept repository for detection of polyps in colonoscopy images. Additional works should be done to obtain a better version of the image classifier and to create a Web/mobile app for this task.
